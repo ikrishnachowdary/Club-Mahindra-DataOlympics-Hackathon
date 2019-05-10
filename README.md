@@ -29,7 +29,7 @@ In private leaderboard, RMSE is 97.684 and my rank is 189
 
 ## Appendix
 You can refer to Club_mahindra_code.R for my code.
-Refer to Club_Mahindra_Flow.html for plots along with code and comments
+Refer to Club_Mahindra_Flow.pdf for plots along with code and comments
 Refer to var_importance.JPG for important variables. 
 
 ## License
